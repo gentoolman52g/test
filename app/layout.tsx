@@ -18,7 +18,7 @@ export default function RootLayout({
         <title>Your Title</title>
       </head>
       <body>
-        <div>dongom</div>
+        <div>donaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaagom</div>
         {children}
       </body>
     </html>
