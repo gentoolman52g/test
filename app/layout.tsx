@@ -14,7 +14,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <head>
+        <title>Your Title</title>
+      </head>
+      <body>
+        <div>dongom</div>
+        {children}
+      </body>
     </html>
   )
 }
